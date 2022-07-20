@@ -370,6 +370,7 @@ button#match-tablet-btn a {
   .content-wrapper {
     display: grid;
     grid-template-rows: repeat(2, 380px);
+    justify-items: center;
   }
   .top-player-info {
     text-overflow: ellipsis;
