@@ -329,6 +329,7 @@ button#match-tablet-btn a {
     grid-template-columns: 1fr;
     justify-items: center;
     width: auto;
+    margin-top: 40px;
   }
 
   #hidden-item {
